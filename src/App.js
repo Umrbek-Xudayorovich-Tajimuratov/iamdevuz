@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Siz navbar branchidasiz!</h1>
+      <h1>Siz navbar branchidasiz! ulala</h1>
     </div>
   );
 }
